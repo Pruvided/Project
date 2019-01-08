@@ -1,13 +1,13 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(http://i.imgur.com/fGir4vo.png);
+    background: url(https://i.imgur.com/pkLaJxh.png);
     height: 630px;
     width: 750px;
     margin-left: -375px;
     margin-top: -285px;
 }
 .custom.disconnected {
-    background: url(http://i.imgur.com/sy5XrtU.png);
+    background: url(https://i.imgur.com/jkG0B8I.png);
     
 }
 .custom.disconnected div {
@@ -19,14 +19,14 @@
     position: absolute;
     left: 126px;
     top: 239px;
-    background: url(http://i.imgur.com/ZJF6NIj.png);
+    background: url(https://i.imgur.com/RK6norI.png);
     /* background-position: -152px 0px; */
     -webkit-clip-path: 50%;
 }
 .custom .trigger{
     width: 88px;
     height: 121px;
-    background: url(http://i.imgur.com/JK59hwF.png);
+    background: url(https://i.imgur.com/cr3v7mz.png);
     opacity: 0;
 }
 .custom .trigger.left{
@@ -40,7 +40,7 @@
 .custom .bumper{
     width: 170px;
     height: 61px;
-    background: url(http://i.imgur.com/imrC1N5.png);
+    background: url(https://i.imgur.com/yZPnRke.png);
     opacity: 0;
 }
 .custom .bumpers{
@@ -164,7 +164,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(http://i.imgur.com/PqNfVwS.png);
+    background: url(https://i.imgur.com/qk2zH7R.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
